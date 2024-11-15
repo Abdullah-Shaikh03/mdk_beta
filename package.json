@@ -1,0 +1,32 @@
+{
+  "name": "web_frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "alpinejs": "^3.14.0",
+    "clsx": "^2.1.1",
+    "dotenv": "^16.4.5",
+    "flowbite": "^2.3.0",
+    "framer-motion": "^11.2.10",
+    "fs": "^0.0.1-security",
+    "next": "14.1.4",
+    "nodemailer": "^6.9.13",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.2.1",
+    "tailwind-merge": "^2.3.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
